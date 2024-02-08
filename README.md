@@ -1,5 +1,6 @@
 ### Hi there, my name is Vasilii 👋
-
+#### Tools and languages
+[![My Skills](https://skillicons.dev/icons?i=java,postman,js,html,css,wasm)](https://skillicons.dev)
 <!--
 **cyberpunkoff/cyberpunkoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
